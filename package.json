@@ -1,0 +1,49 @@
+{
+  "name": "travel_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-brands-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@heroui/navbar": "^2.2.14",
+    "@heroui/react": "^2.7.5",
+    "@heroui/system": "^2.4.12",
+    "@heroui/theme": "^2.4.12",
+    "@mdi/js": "^7.4.47",
+    "@mui/icons-material": "^6.2.0",
+    "@mui/material": "^6.2.0",
+    "@next/font": "^14.2.15",
+    "@nextui-org/react": "^2.6.11",
+    "@tsparticles/react": "^3.0.0",
+    "framer-motion": "^12.5.0",
+    "lucide-react": "^0.483.0",
+    "motion": "^12.6.3",
+    "next": "13.5.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-tsparticles": "^2.12.2",
+    "tsparticles": "^3.8.1",
+    "tsparticles-shape-image": "^2.12.0",
+    "typewriter-effect": "^2.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3",
+    "typescript": "^5"
+  }
+}
