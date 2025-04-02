@@ -448,3 +448,7 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+<<<<<<< HEAD
+=======
+>>>>>>> 5d6182b (Initial commit)
+>>>>>>> 316757a (Updated UI/UX design elements)

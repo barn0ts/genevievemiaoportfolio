@@ -30,10 +30,10 @@ const AboutMePage = () => {
   const imageSize = "clamp(50px, 15vw, 150px)";
 
   const imageSources = [
-    "/genicon1.jpg",
+    "/genicon1.JPG",
     "/genicon2.jpg",
     "/genicon3.jpg",
-    "/genicon4.jpg",
+    "/genicon4.JPG",
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -98,7 +98,7 @@ const AboutMePage = () => {
               className="absolute transition-opacity duration-300 opacity-100 rounded-xl overflow-hidden"
               style={{
                 bottom: '26%', 
-                right: '12%',  
+                right: '15%',  
                 transform: 'rotate(8deg)', 
                 width: imageSize,
                 height: imageSize,

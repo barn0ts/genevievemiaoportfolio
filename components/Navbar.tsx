@@ -18,7 +18,7 @@ import React, { useState } from 'react';
 export default function NavbarSection() {
   const menuItems = ["Home", "About Me", "Projects", "Resume", "Contact"];
   const router = useRouter();
-  const resumeURL = "https://drive.google.com/file/d/12HttbvLdsHKNo67kQEx8WaK0KhzZAw5a/view?usp=sharing";
+  const resumeURL = "https://drive.google.com/file/d/1Rxl__hwBIP_9eTrJ-JZPOSV5mWBTHHzm/view?usp=sharing";
 
   const pathname = usePathname();
   const [isContactModalOpen, setIsContactModalOpen] = useState(false);
